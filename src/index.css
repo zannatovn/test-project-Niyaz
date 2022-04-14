@@ -1,0 +1,312 @@
+body {
+    height: 1700px;
+    width: 1446px;
+    left: 302px;
+    top: -335px;
+    border-radius: 0px;
+    background: #652b80;  
+}
+table {
+    border-spacing: 3px 3px;
+    background: white;
+}
+td {
+    padding: 10px;
+    background: #F5F3F3;
+}
+.trait_1 {
+    position: absolute;
+    width: 614px;
+    height: 3px;
+    left: 413px;
+    top: 190px;
+    background: #000000;
+}
+.trait_2 {
+    position: absolute;
+    width: 614px;
+    height: 3px;
+    left: 413px;
+    top: 1495px;
+    background: #000000;    
+}
+.facts_about_me_1 {
+    position: absolute;
+    width: 614px;
+    height: 220px;
+    left: 413px;
+    top: 233px;
+    border-radius: 3px;
+    background: #FFFFFF;
+}
+.facts_about_me_2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+}
+.wraper {
+    padding: 0px 0px 10px 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.name {
+    position: absolute;
+    width: 231px;
+    height: 36px;
+    left: 662px;
+    top: 70px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+}
+.position {
+    position: absolute;
+    width: 106px;
+    height: 22px;
+    left: 662px;
+    top: 126px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.avatar {
+    padding: 64px 829px 1519px 521px;
+    width: 96px;
+    height: 91px;
+    left: 617px;
+    top: 64px;
+    border-radius: 20px;
+}
+.my_skills {
+    position: absolute;
+    left: 632px;
+    top: 465px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.image_1 {
+    position: absolute;
+    width: 72px;
+    height: 66px;
+    left: 413px;
+    top: 525px;
+    background: url(image.png);
+}
+.image_2 {
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    left: 516px;
+    top: 525px;
+    background: url(image.png);
+}
+.image_3 {
+    position: absolute;
+    width: 38px;
+    height: 59px;
+    left: 609px;
+    top: 525px;
+    background: url(image.png);
+}
+.image_4 {
+    position: absolute;
+    width: 93px;
+    height: 92px;
+    left: 653px;
+    top: 510px;  
+    background: url(image.png);
+}
+.image_5 {
+    position: absolute;
+    width: 60px;
+    height: 59px;
+    left: 752px;
+    top: 525px;   
+    background: url(image.png);}
+.image_6 {
+    position: absolute;   
+    width: 169px;
+    height: 34px;
+    left: 843px;
+    top: 535px;
+    background: url(image.png);
+}
+.image_7 {
+    position: absolute;   
+    width: 72px;
+    height: 72px;
+    left: 413px;
+    top: 610px;
+    background: url(image.png);
+}
+.image_8 {
+    position: absolute;   
+    width: 72px;
+    height: 72px;
+    left: 500px;
+    top: 610px;
+    background: url(image.png);
+}
+.image_9 {
+    position: absolute;   
+    width: 72px;
+    height: 72px;
+    left: 587px;
+    top: 610px;
+    background: url(image.png);
+}
+.image_10 {
+    position: absolute;   
+    width: 72px;
+    height: 72px;
+    left: 674px;
+    top: 610px;
+    background: url(image.png);
+}
+.image_11 {
+    position: absolute;   
+    width: 72px;
+    height: 72px;
+    left: 761px;
+    top: 610px;
+    background: url(image.png);
+}
+.image_12 {
+    position: absolute;   
+    width: 72px;
+    height: 72px;
+    left: 852px;
+    top: 610px;
+    background: url(image.png);
+}
+.image_13 {
+    position: absolute;   
+    width: 72px;
+    height: 72px;
+    left: 945px;
+    top: 610px;
+    background: url(image.png);
+}
+.image_14 {
+    position: relative;
+    top: 25px;
+    left: 15px;
+    margin: 0px;
+    background: url(image.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 3px;  
+}
+.certificate {
+    position: absolute;
+    width: 614px;
+    height: 309px;
+    left: 411px;
+    top: 700px;
+    background: #FFFFFF;
+    border-radius: 3px;
+}
+.certif {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;;
+    color: #000000;
+}
+.rectangle {
+    position: absolute;    
+    width: 289px;
+    height: 185px;
+    left: 721px;
+    top: 782px;    
+    margin: 0px;
+    background: #F5F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+}
+.table {
+    position: absolute;
+    width: 614px;
+    height: 450px;
+    left: 413px;
+    top: 1026px;
+    background: #FFFFFF;
+    border-radius: 3px;
+}
+.works {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0em;
+}
+.tables{
+    position: relative;
+    left: 45px;
+    top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: large;
+    width: 529px;
+    height: 200px;
+}
+.my_сontact {
+    position: absolute;
+    left: 637px;
+    top: 1500px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+}
+.сontact_1 {
+    position: absolute;
+    left: 447px;
+    top: 1550px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.сontact_2 {
+    position: absolute;
+    left: 640px;
+    top: 1550px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.сontact_3 {
+    position: absolute;
+    padding-left: 35px;
+    left: 790px;
+    top: 1550px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
