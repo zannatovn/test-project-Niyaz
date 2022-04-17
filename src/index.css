@@ -33,7 +33,7 @@ td {
 .facts_about_me_1 {
     position: absolute;
     width: 614px;
-    height: 220px;
+    height: 175px;
     left: 413px;
     top: 233px;
     border-radius: 3px;
@@ -92,7 +92,7 @@ td {
 .my_skills {
     position: absolute;
     left: 632px;
-    top: 465px;
+    top: 415px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
@@ -105,7 +105,7 @@ td {
     width: 72px;
     height: 66px;
     left: 413px;
-    top: 525px;
+    top: 480px;
     background: url(image.png);
 }
 .image_2 {
@@ -113,7 +113,7 @@ td {
     width: 62px;
     height: 62px;
     left: 516px;
-    top: 525px;
+    top: 480px;
     background: url(image.png);
 }
 .image_3 {
@@ -121,7 +121,7 @@ td {
     width: 38px;
     height: 59px;
     left: 609px;
-    top: 525px;
+    top: 480px;
     background: url(image.png);
 }
 .image_4 {
@@ -129,7 +129,7 @@ td {
     width: 93px;
     height: 92px;
     left: 653px;
-    top: 510px;  
+    top: 465px;  
     background: url(image.png);
 }
 .image_5 {
@@ -137,14 +137,14 @@ td {
     width: 60px;
     height: 59px;
     left: 752px;
-    top: 525px;   
+    top: 480px;   
     background: url(image.png);}
 .image_6 {
     position: absolute;   
     width: 169px;
     height: 34px;
     left: 843px;
-    top: 535px;
+    top: 490px;
     background: url(image.png);
 }
 .image_7 {
@@ -152,7 +152,7 @@ td {
     width: 72px;
     height: 72px;
     left: 413px;
-    top: 610px;
+    top: 580px;
     background: url(image.png);
 }
 .image_8 {
@@ -160,7 +160,7 @@ td {
     width: 72px;
     height: 72px;
     left: 500px;
-    top: 610px;
+    top: 580px;
     background: url(image.png);
 }
 .image_9 {
@@ -168,7 +168,7 @@ td {
     width: 72px;
     height: 72px;
     left: 587px;
-    top: 610px;
+    top: 580px;
     background: url(image.png);
 }
 .image_10 {
@@ -176,7 +176,7 @@ td {
     width: 72px;
     height: 72px;
     left: 674px;
-    top: 610px;
+    top: 580px;
     background: url(image.png);
 }
 .image_11 {
@@ -184,7 +184,7 @@ td {
     width: 72px;
     height: 72px;
     left: 761px;
-    top: 610px;
+    top: 580px;
     background: url(image.png);
 }
 .image_12 {
@@ -192,7 +192,7 @@ td {
     width: 72px;
     height: 72px;
     left: 852px;
-    top: 610px;
+    top: 580px;
     background: url(image.png);
 }
 .image_13 {
@@ -200,7 +200,7 @@ td {
     width: 72px;
     height: 72px;
     left: 945px;
-    top: 610px;
+    top: 580px;
     background: url(image.png);
 }
 .image_14 {
@@ -243,6 +243,7 @@ td {
 .table {
     position: absolute;
     width: 614px;
+    font-family: 'Inter';
     height: 450px;
     left: 413px;
     top: 1026px;
@@ -256,7 +257,7 @@ td {
     font-weight: 500;
     letter-spacing: 0em;
 }
-.tables{
+.table_work{
     position: relative;
     left: 45px;
     top: 15px;
@@ -276,7 +277,7 @@ td {
     font-size: 18px;
     color: #000000;
 }
-.сontact_1 {
+.phone_number {
     position: absolute;
     left: 447px;
     top: 1550px;
@@ -287,7 +288,7 @@ td {
     line-height: 17px;
     color: #000000;
 }
-.сontact_2 {
+.telegram {
     position: absolute;
     left: 640px;
     top: 1550px;
@@ -298,7 +299,7 @@ td {
     line-height: 17px;
     color: #000000;
 }
-.сontact_3 {
+.github {
     position: absolute;
     padding-left: 35px;
     left: 790px;
